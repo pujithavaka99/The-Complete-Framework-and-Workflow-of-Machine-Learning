@@ -1,9 +1,9 @@
-# 🧠 The Complete Framework and Workflow of Machine Learning
+#  The Complete Framework and Workflow of Machine Learning
 
 *A beginner-friendly guide to understanding the Machine Learning workflow step by step—from raw data to real-world predictions.*
 
 
-## 📌 About This Repository
+##  About This Repository
 
 When I first started learning Machine Learning, many concepts felt difficult to understand.
 
@@ -21,7 +21,7 @@ The goal is simple:
 
 ---
 
-## 🚀 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ```txt id="mlflow01"
 Problem Statement
@@ -49,7 +49,7 @@ Each stage plays an important role in helping the model learn patterns and make 
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ✔️ Problem Statement & Target Variable
 
@@ -77,7 +77,7 @@ Each stage plays an important role in helping the model learn patterns and make 
 
 ---
 
-## 🎯 Why I Wrote This
+##  Why I Wrote This
 
 As a student learning Machine Learning, I noticed many beginner resources explain concepts using advanced technical language.
 
@@ -91,21 +91,21 @@ Learning becomes much easier when we understand each step clearly.
 
 ---
 
-## 🌍 Real-World Applications of Machine Learning
+##  Real-World Applications of Machine Learning
 
 Machine Learning is already part of many industries today:
 
-🏥 **Healthcare** → Disease detection and diagnosis
+ **Healthcare** → Disease detection and diagnosis
 
-💳 **Finance** → Fraud detection and risk analysis
+ **Finance** → Fraud detection and risk analysis
 
-🎬 **Recommendation Systems** → Netflix, Spotify, YouTube suggestions
+ **Recommendation Systems** → Netflix, Spotify, YouTube suggestions
 
-📱 **Social Media** → Personalized content feeds
+ **Social Media** → Personalized content feeds
 
-🚗 **Transportation** → Traffic prediction and self-driving systems
+ **Transportation** → Traffic prediction and self-driving systems
 
-🛒 **E-commerce** → Product recommendations and customer insights
+ **E-commerce** → Product recommendations and customer insights
 
 ---
 
@@ -125,11 +125,11 @@ Machine Learning is already part of many industries today:
 [Connect on LinkedIn](https://www.linkedin.com/in/pujithavaka99/)
 
 **LinkedIn Post**
-[View My LinkedIn Post](Paste-post-link)
+[View My LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7466138470994956288/)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Pujitha Vaka**
 
